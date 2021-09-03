@@ -34,6 +34,8 @@
 * **HTML**
 * **CSS**
 * **JavaScript**
+* **C**
+* **C++**
 
 <div align="center">
 
