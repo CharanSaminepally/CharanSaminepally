@@ -1,6 +1,6 @@
 ## Hi, I'm [Charan Saminepally](https://github.com/CharanSaminepally) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="CharanSaminepally" /> </p>
+
 
 
 <a href="https://www.linkedin.com/in/charansaminepally">
