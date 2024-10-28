@@ -1,4 +1,4 @@
-## Hi, I'm [Charan Saminepally](https://github.com/CharanSaminepally) 👋
+## Hi, I'm [Sai Charan Saminepalli](https://github.com/CharanSaminepally) 👋
 
 
 
@@ -15,8 +15,8 @@
 
 
 
-- 🔭 I’m currently Studying at Sathyabama University , Chennai.
-- 🌱 I’m learning Computer Science
+- 🔭 I’m currently Studying at University at Albany, New York
+- 🌱 I’m learning Data Science
 - 💻 Interested in Programming
 - 📫 Reach me on : 
 - [Linkedin - @Charan Saminepally](https://www.linkedin.com/in/charansaminepally) 
